@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+.card-img-top {
+
+    height: 44px;
+    width: 237px;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+    text-align: justify;
+
+}
+.hfg{
+    height: 13rem;
+}
+.p-4 {
+    padding: 3rem!important;
+}
